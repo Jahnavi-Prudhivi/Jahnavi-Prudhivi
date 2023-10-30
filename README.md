@@ -6,11 +6,11 @@ and Perception. My research, work and projects I have accomplished reflects my e
 ultimately expand my knowledge and allow for me to apply these skills into solving real-world problems, including combining programming, electrical and
 mechanical aspects
 
-# # Education
+# Education
 Worcester Polytechnic Institute | Class of 2026 | 3.75
 Robotics Engineering (BSE) & Computer Science (BS)
 
-# # Get in Touch
+# Get in Touch
 I'm always looking for opportunities to collaborate, learn and explore the world of technology
 Whether you're a fellow student, a potential employer or someone who shares my passion for robotics and computer science, don't hesistate to reach out.
 You can connect with me via LinkedIn [https://www.linkedin.com/in/jahnavi-prudhivi/] or send me an email at jahnaviprudhivi2004@gmail.com
