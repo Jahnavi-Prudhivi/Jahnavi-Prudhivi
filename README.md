@@ -32,4 +32,4 @@ Current Project: Robotic Percussion Performance with Advanced Actuators
 # Get in Touch
 I'm always looking for opportunities to collaborate, learn and explore the world of technology
 Whether you're a fellow student, a potential employer or someone who shares my passion for robotics and computer science, don't hesistate to reach out.
-You can connect with me via LinkedIn [https://www.linkedin.com/in/jahnavi-prudhivi/] or send me an email at jahnaviprudhivi2004@gmail.com
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/jahnavi-prudhivi/) or send me an email at jahnaviprudhivi2004@gmail.com
