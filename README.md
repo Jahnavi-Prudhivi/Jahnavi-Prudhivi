@@ -18,15 +18,15 @@ Robotics Engineering (BSE) & Computer Science (BS)
 - Exploring mechanical intelligence, embedded fluidic circuits, and flexible electronics to combat obstacles and debris fields 
 Using Bambu Lab, PRUSA, SolidWorks, and Fusion360, to facilitate the design and production processes
 
-**Music, Perception, and Robotics Laboratory** [WPI] [Oct 2023 - Present]  (`<br>`)
-**Position**: Researcher(`<br>`)
+**Music, Perception, and Robotics Laboratory** [WPI] [Oct 2023 - Present]   
+**Position**: Researcher   
 Current Project: Robotic Percussion Performance with Advanced Actuators
 - Designing and developing a modular percussion instrument arm with the use of complex actuators including voice coils and multi-DOF arms
 - Building expressive systems unique to machines, humans, and their intersection while blending technology and art using human musical perception
 - Conducting psychological research that examines human musical perception and creativity, and improving productivity in the synergy between robotics and human performances
 
-**ASSISTments** [WPI] [Feb 2023 - May 2023](`<br>`)
-**Position**: AI Project Worker(`<br>`)
+**ASSISTments** [WPI] [Feb 2023 - May 2023]   
+**Position**: AI Project Worker   
 Analyzed students’ math homework uploaded to a digital platform and annotated over 100,000 images for PIIS to develop machine-learning methods to detect and remove PIIS and build various image processing models to strip the PII in the rest of the image set.
 
 # Get in Touch
