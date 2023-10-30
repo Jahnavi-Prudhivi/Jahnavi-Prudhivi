@@ -7,12 +7,12 @@ ultimately expand my knowledge and allow for me to apply these skills into solvi
 mechanical aspects
 
 # Education
-Worcester Polytechnic Institute | Class of 2026 | 3.75 (`<br>`)
+Worcester Polytechnic Institute | Class of 2026 | 3.75   
 Robotics Engineering (BSE) & Computer Science (BS)
 
 # Experience
-**Robotics Material Research Group** [WPI] [Sept 2023 - Present] (`<br>`)
-**Position**: Researcher (`<br>`)
+**Robotics Material Research Group** [WPI] [Sept 2023 - Present]   
+**Position**: Researcher  
 - Collaborating with Ph.D. students to develop 3D printable robots capable of withstanding substantial structural deformations, disabling conventional approaches to computing and control
 - Implementing systematic strategies for the rapid design, fabrication, and deployment of highly customized robot fleets for urgent missions involving aerial, ground, and underwater robot
 - Exploring mechanical intelligence, embedded fluidic circuits, and flexible electronics to combat obstacles and debris fields 
