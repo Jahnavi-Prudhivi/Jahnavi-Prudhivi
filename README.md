@@ -27,7 +27,7 @@ Current Project: Robotic Percussion Performance with Advanced Actuators
 
 #### **ASSISTments** [WPI] [Feb 2023 - May 2023]   
 **Position**: AI Project Worker   
-Analyzed students’ math homework uploaded to a digital platform and annotated over 100,000 images for PIIS to develop machine-learning methods to detect and remove PIIS and build various image processing models to strip the PII in the rest of the image set.
+- Analyzed students’ math homework uploaded to a digital platform and annotated over 100,000 images for PIIS to develop machine-learning methods to detect and remove PIIS and build various image processing models to strip the PII in the rest of the image set.
 
 # Get in Touch
 I'm always looking for opportunities to collaborate, learn and explore the world of technology
